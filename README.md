@@ -33,6 +33,10 @@
 
 
 ## 🔥 Statistics
-
-![Kacperon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacperon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kacperon&count_private=true&show_icons=true&theme=prussian&hide_border=true&bg_color=292d3e" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacperon&langs_count=6&hide=css,php,scss,html,jupyter%20notebook&layout=compact&theme=prussian&hide_border=true&bg_color=292D3E" width="44%"/>
+    <!-- &ensp;&nbsp;&nbsp;&nbsp; -->
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Kacperon&theme=prussian&hide_border=true&date_format=%5BY%20%5DM%20j&background=292D3E&stroke=A5C2E0" width="60%"/> -->
+  </p>
 </div>
