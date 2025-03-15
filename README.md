@@ -16,9 +16,9 @@
 
 - 👨‍🎓 **Bachelor’s degree** (Engineering) **student** in **Computer Science** from the **Faculty of Computer Science** at the **AGH University of Krakow**,
 
--💻 I enjoy **coding**, **developing interesting projects**, and **exploring innovative ideas**.
+- 💻 I enjoy **coding**, **developing interesting projects**, and **exploring innovative ideas**.
 
--🎧 In my free time, I enjoy music 🎵, watching films 🎥, and playing city builders and sandbox games 🎮. I'm also passionate about electrical engineering, electronics, and mechanics ⚙️.
+- 🎧 In my free time, I enjoy music 🎵, watching films 🎥, and playing city builders and sandbox games 🎮. I'm also passionate about electrical engineering, electronics, and mechanics ⚙️.
 
 
 <div align="center">
