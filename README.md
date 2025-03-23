@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kacper
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kacper.
 
 ### Software Developer | Computer Science Student
 
