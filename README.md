@@ -34,6 +34,6 @@
 ## 🔥 Statistics
   <p>
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Kacperon&count_private=true&show_icons=true&theme=dark&hide_border=true" width="49%"/> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacperon&langs_count=10&hide=css,php,scss,html,jupyter%20notebook&layout=compact&theme=dark&hide_border=true" width="44%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacperon&langs_count=8&hide=css,php,scss,html,jupyter%20notebook&layout=compact&theme=dark&hide_border=true" width="44%"/>
   </p>
 </div>
