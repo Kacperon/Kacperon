@@ -25,7 +25,7 @@
 
 ## 🚀 Languages that I know
 
-[![Languages](https://skillicons.dev/icons?i=py,java,c,rust,julia,elixir)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,scala,c,rust,julia,elixir)](https://skillicons.dev)
 
 ## 🛠️ Technologies I have worked with
 
