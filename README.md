@@ -29,7 +29,7 @@
 
 ## 🛠️ Technologies I have worked with
 
-[![Technologies](https://skillicons.dev/icons?i=arduino,mongodb,git,github,gradle,idea,vscode,godot,notion,raspberrypi,pytorch,linux,latex&perline=6)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=arduino,mongodb,git,github,gradle,idea,vscode,godot,notion,pytorch,linux,latex&perline=6)](https://skillicons.dev)
 
 ## 🔥 Statistics
   <p>
